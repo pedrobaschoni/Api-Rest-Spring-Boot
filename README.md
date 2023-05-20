@@ -4,7 +4,7 @@ Este é o repositório do projeto desenvolvido durante o Mini Curso de API REST 
 
 ## Descrição do Projeto
 
-O projeto é uma API REST desenvolvida em Java Spring para gerenciar uma aplicação de exemplo. A aplicação possui endpoints para realizar operações CRUD (Create, Read, Update, Delete) em uma entidade chamada `Exemplo`. A API utiliza o Spring Data JPA para interagir com o banco de dados.
+O projeto é uma API REST desenvolvida em Java Spring para gerenciar uma aplicação de exemplo. A aplicação possui endpoints para realizar operações CRUD (Create, Read, Update, Delete) em uma entidade chamada `Exemplo`. A API utiliza o Spring Data JPA para interagir com o banco de dados e com uma api do governo para pegar o endereço do aluno através do CEP indicado.
 
 ## Requisitos
 
